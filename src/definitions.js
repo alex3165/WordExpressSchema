@@ -46,6 +46,7 @@ const Definitions = `
     post_name: String
     post_parent: Int
     menu_order: Int
+    post_date: String
     post_author: Int
     layout: Postmeta
     thumbnail: String
